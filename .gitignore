@@ -1,0 +1,4 @@
+#ignore pycache
+__pycache__/
+#also ignore .pyc just in case
+*.pyc
