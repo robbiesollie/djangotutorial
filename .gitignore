@@ -2,3 +2,5 @@
 __pycache__/
 #also ignore .pyc just in case
 *.pyc
+#no db lol
+db.sqlite3
