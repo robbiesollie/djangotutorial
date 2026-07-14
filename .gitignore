@@ -4,3 +4,5 @@ __pycache__/
 *.pyc
 #no db lol
 db.sqlite3
+#ignore venv
+.venv
